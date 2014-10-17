@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mgm:home|Door43 (mgm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mgm|d43-mgm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mgm/archive/master.zip|d43-mgm.zip]]
+
+**Recent Changes**
+{{changes>ns = mgm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mgm|Ethnologue data]]
+
